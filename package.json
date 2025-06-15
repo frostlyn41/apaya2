@@ -1,0 +1,16 @@
+{
+  "name": "nexorad-bot",
+  "version": "1.0.0",
+  "description": "Automate Nexorad waitlist referrals",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0-rc.12",
+    "http-proxy-agent": "^7.0.2"
+  },
+  "author": "https://t.me/sentineldiscus",
+  "license": "ISC"
+}
